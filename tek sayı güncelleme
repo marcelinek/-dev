@@ -7,8 +7,6 @@ while True:
         sayilar.append(int(input(str(kactane) + ".sayıyı giriniz:")))
         kactane = kactane-1
 
-
-
 print(sayilar)
 odd = []
 even = []
